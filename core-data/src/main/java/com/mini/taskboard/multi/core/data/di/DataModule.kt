@@ -37,6 +37,7 @@ object  DataModule {
     }
 
     @Provides
+    @Singleton
     fun provideTaskDao(database: AppDatabase): TaskDao {
         return database.taskDao()
     }
