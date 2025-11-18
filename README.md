@@ -1,4 +1,4 @@
-Mini TaskBoard App
+Mini TaskBoard App Assignment
 Objective:
 Build a small TaskBoard App using Kotlin, Jetpack Compose, Room Database, and Dependency
 Injection (Hilt or Koin).
