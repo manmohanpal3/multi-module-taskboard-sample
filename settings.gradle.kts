@@ -21,4 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "Multi-Module-TaskBoard-Sample"
 include(":app")
- 
+include(":core-common")
+include(":core-data")
+include(":core-domain")
+include(":core-network")
+include(":feature-taskboard")
