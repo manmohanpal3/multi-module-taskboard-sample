@@ -51,3 +51,5 @@ Inject ViewModels, Repositories, DAOs, and the Dummy Network class.
 Submission:
 - Submit a GitHub repository link containing your project.
 - Include a short README explaining your architecture and setup instructions.
+
+![Homepage](https://raw.githubusercontent.com/manmohanpal3/multi-module-taskboard-sample/main/app/src/main/res/assets/homepage.png)
